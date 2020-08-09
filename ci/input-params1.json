@@ -1,11 +1,11 @@
 [
   {
     "ParameterKey": "GitHubUser",
-    "ParameterValue": "aws-quickstart"
+    "ParameterValue": "abdkhaa"
   },
   {
     "ParameterKey": "GitHubRepoName",
-    "ParameterValue": "github-repo-name"
+    "ParameterValue": "quickstart"
   },
   {
     "ParameterKey": "SourceRepoBranch",
@@ -17,7 +17,7 @@
   },
   {
     "ParameterKey": "GitHubOAuthToken",
-    "ParameterValue": "github-token"
+    "ParameterValue": "aabee35d44f3406418168c1ac425bfada394dfa8"
   },
   {
     "ParameterKey": "QSS3BucketName",
